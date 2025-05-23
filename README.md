@@ -40,7 +40,7 @@ Este projeto prático permitiu consolidar conhecimentos fundamentais em bancos d
 1. **Modelagem Implementada**
    - Diagrama ER representando a estrutura do banco
    - Tabelas SQLite funcionais com relacionamentos
-   - Chaves primárias e estrangeiras corretamente configuradas
+   - Chaves primárias e estrangeiras configuradas
 
 2. **Implementação Técnica**
    - Ambiente configurado no Google Colab (Python + SQLite)
@@ -49,20 +49,8 @@ Este projeto prático permitiu consolidar conhecimentos fundamentais em bancos d
 
 3. **Organização do Projeto**
    - Repositório GitHub bem estruturado
-   - Histórico de commits coerente
    - Documentação clara
 
 ###  Aprendizados
-
-- Sintaxe SQL para operações básicas e avançadas
 - Modelagem de relacionamentos entre tabelas
 - Fluxo de trabalho com Colab e GitHub
-
-###  Próximos Passos
-
-1. Adicionar novas entidades ao modelo
-2. Implementar views e procedures
-3. Criar índices de otimização
-4. Desenvolver interface básica
-
-🔗 **Repositório**: [github.com/GabrielMou21/projeto-bd-colab](https://github.com/GabrielMou21/projeto-bd-colab)
