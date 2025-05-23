@@ -1,6 +1,5 @@
 # projeto-bd-colab
 Exercício de criação e manipulação de um BD em SQLite usando Google Colab
-![Texto alternativo](https://github.com/user-attachments/assets/1c787329-3d70-4d1c-ab4b-99b1ad2cb3e9)
 # Projeto BD SQLite no Colab
 
 ## 📌 Sobre
@@ -17,7 +16,7 @@ Projeto de banco de dados SQLite desenvolvido no Google Colab com:
 3. Explore os resultados
 
 ## 📊 Diagrama ER
-![Diagrama do Banco](docs/diagrams/diagrama-er.png)
+![Texto alternativo](https://github.com/user-attachments/assets/1c787329-3d70-4d1c-ab4b-99b1ad2cb3e9)
 
 ## ⚙️ Tecnologias
 - Python
@@ -26,8 +25,8 @@ Projeto de banco de dados SQLite desenvolvido no Google Colab com:
 
 ## 📂 Estrutura
 ```
-projeto-bd-colab/
-├── Projeto-BD-SQLite.ipynb
-├── diagrama-er.png
-└── README.md
-```
+O banco de dados contém 4 tabelas principais:
+clientes - Armazena informações dos clientes
+produtos - Cadastro de produtos disponíveis
+pedidos - Registro de pedidos dos clientes
+itens_pedido - Relacionamento entre pedidos e produtos
