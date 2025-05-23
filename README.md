@@ -65,6 +65,4 @@ Este projeto prático permitiu consolidar conhecimentos fundamentais em bancos d
 3. Criar índices de otimização
 4. Desenvolver interface básica
 
-🔗 **Repositório**: [github.com/seu-usuario/projeto-bd-colab](https://github.com/GabrielMou21/projeto-bd-colab)
-
-*Projeto concluído com sucesso, servindo como base para desenvolvimentos futuros em bancos de dados relacionais.*
+🔗 **Repositório**: [github.com/GabrielMou21/projeto-bd-colab](https://github.com/GabrielMou21/projeto-bd-colab)
