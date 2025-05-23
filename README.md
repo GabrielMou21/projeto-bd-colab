@@ -24,7 +24,15 @@ Projeto de banco de dados SQLite desenvolvido no Google Colab com:
 - Google Colab
 
 ## 📂 Estrutura
-```
+```O banco de dados contém 4 tabelas principais:
+
+clientes - Armazena informações dos clientes
+
+produtos - Cadastro de produtos disponíveis
+
+pedidos - Registro de pedidos dos clientes
+
+itens_pedido - Relacionamento entre pedidos e produtos
 O banco de dados contém 4 tabelas principais:
 clientes - Armazena informações dos clientes
 produtos - Cadastro de produtos disponíveis
