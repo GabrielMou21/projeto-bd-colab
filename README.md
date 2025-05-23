@@ -48,7 +48,7 @@ Este projeto prático permitiu consolidar conhecimentos fundamentais em bancos d
    - Consultas JOIN validadas
 
 3. **Organização do Projeto**
-   - Repositório GitHub bem estruturado
+   - Repositório GitHub estruturado
    - Documentação clara
 
 ###  Aprendizados
